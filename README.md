@@ -8,7 +8,7 @@
 
 ## 📦 文件内容
 
-- `.wav` 文件：音频样本（暂未将音量增大到最合适），通过原片标题创建的目录来分类。
+- `.wav` 文件：音频样本（暂未将音量增大到最合适，没有使用 FL Studio 新推出的"去混响"功能操作），通过原片标题创建的目录来分类。
 - `.sf2` 文件：用于 MIDI 播放器和 DAW 的 SoundFont 音源
 
 - Language of File Name（文件名语言）: Simplified Chinese（简体中文）
