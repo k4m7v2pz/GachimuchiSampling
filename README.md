@@ -13,7 +13,7 @@
 
 - Language of File Name（文件名语言）: Simplified Chinese（简体中文）
 - Language of Voice（声音中讲的语言）: English（英语）
-- Sample Rate（采样率）: 48000hz
+- Sample Rate（采样率）: `48000`hz(`48.0`khz)
 
 ---
 
