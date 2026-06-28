@@ -4,31 +4,56 @@
 
 ## 📦 文件内容
 
-- `.wav` 文件：音频样本（暂未将音量增大到最合适，没有使用 FL Studio 新推出的"去混响"功能操作），通过原片标题创建的目录来分类。
-- `.sf2` 文件：用于 MIDI 播放器和 DAW 的 SoundFont 音源
+### 文件类型
 
-- Language of File Name（文件名语言）: Simplified Chinese（简体中文）
-- Language of Voice（声音中讲的语言）: English（英语）
-- Sample Rate（采样率）: `48000hz (48.0khz)`
+- `.wav` — 音频样本（暂未将音量增大到最合适，没有使用 FL Studio 新推出的"去混响"功能操作），通过原片标题创建的目录来分类。
+- `.sf2` — 用于 MIDI 播放器和 DAW 的 SoundFont 音源
+
+### 技术规格
+
+| 项目 | 值 |
+|---|---|
+| 采样率 | 48000 Hz |
+| 文件名语言 | 简体中文 |
+| 语音语言 | 英语 |
 
 ---
 
 ## 🎵 适用场景
 
-- 鬼畜 or 音 mad 制作
-- DAW or Sampler（采样器）功能探索 / 声音设计
+- 鬼畜 / 音 MAD 制作
+- DAW / Sampler（采样器）功能探索 / 声音设计
 - 哲♂学爱好者的素材收藏
+
+---
+
+## 📥 获取方式
+
+### 方式一：Download ZIP
+
+直接从 GitHub 下载最新版本：
+
+```
+https://github.com/k4m7v2pz/GachimuchiSampling/archive/refs/heads/master.zip
+```
+
+### 方式二：git clone
+
+在终端中运行：
+
+```bash
+git clone https://github.com/k4m7v2pz/GachimuchiSampling.git
+```
 
 ---
 
 ## 📁 使用方式
 
-- Download Zip 或 在终端中使用 `git clone`
-- 你可以将 `.sf2` 文件加载至支持 SoundFont 的软件中，如：
+将 `.sf2` 文件加载至支持 SoundFont 的软件中，如：
 
-- **Ardour**：在内置插件 ACE Fluid Synth 中加载
-- **FL Studio**：拖入通道机架即可创建新乐器
-- **Polyphone**：`.sf2` 文件的编辑
+- **Ardour** — 在内置插件 ACE Fluid Synth 中加载
+- **FL Studio** — 拖入通道机架即可创建新乐器
+- **Polyphone** — `.sf2` 文件的编辑
 
 ---
 
